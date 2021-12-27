@@ -76,5 +76,7 @@ https://www.torproject.org/download/
 
 ## 暗网监控
 
-| 网址 | 监控结果 |
-| http://xbtppbb7oz5j2stohmxzvkprpqw5dwmhhhdo2ygv6c7cs4u46ysufjyd.onion| |
+| 网站名 | 网址 | 监控结果 |
+|  ----  | ----  | ----  | 
+|FreeCity | http://xbtppbb7oz5j2stohmxzvkprpqw5dwmhhhdo2ygv6c7cs4u46ysufjyd.onion| |
+| 楼兰城 | http://c2p3hg35jalss7b2a6hkmhzflgevkonqt7g6jze62ro2g4h4wmzwobid.onion/ | |
