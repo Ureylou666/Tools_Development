@@ -64,4 +64,17 @@ forward-socks5t / 127.0.0.1:9050
 
 ## 本地使用
 
-安装
+官网下载地址
+
+https://www.torproject.org/download/
+
+选择对应版本下载安装
+
+使用时 修改Tor浏览器的网络设置（假设我们的代理服务器ip为：11.11.11.11）
+
+![image](https://user-images.githubusercontent.com/75350727/147444420-8d93a98d-a464-4148-b9e9-622ab9200d67.png)
+
+## 暗网监控
+
+| 网址 | 监控结果|
+|http://xbtppbb7oz5j2stohmxzvkprpqw5dwmhhhdo2ygv6c7cs4u46ysufjyd.onion| |
